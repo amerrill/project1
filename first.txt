@@ -4,7 +4,10 @@ https://githubtraining.campfirenow.com/d819b
 pwd - SHOWS the current git directory
 git init "project name" -  a new empty git repo in a subfolder with the name you specify placed within your working directory
 
+fghfjhfjhf
 git status - tells you the hello current status of the git repo that you are in
 
 when using git, consider using the comment to explain why you changed something instead of what you changed
 
+
+kjhg
