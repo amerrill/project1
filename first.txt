@@ -1,0 +1,8 @@
+http://teach.github.com/presentations/git-foundations.html
+https://githubtraining.campfirenow.com/d819b
+
+pwd - shows the current git directory
+git init "project name" - creates a new empty git repo in a subfolder with the name you specify placed within your working directory
+
+git status - tells you the current status of the git repo that you are in
+
